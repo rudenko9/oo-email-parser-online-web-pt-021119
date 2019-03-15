@@ -11,7 +11,7 @@
    
    def parse
     @email.split(/[\s,]+/)
+    end
     
-   end
    
  end 

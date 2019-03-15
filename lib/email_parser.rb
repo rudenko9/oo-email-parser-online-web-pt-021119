@@ -10,7 +10,7 @@
    end 
    
    def parse
-     @email.split(" ")
+     self.split(" ")
    end
    
  end 

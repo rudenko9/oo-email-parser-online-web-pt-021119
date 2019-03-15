@@ -7,7 +7,7 @@
    
    
    def parse 
-     
+     email.split(",")
    end
    
  end 
